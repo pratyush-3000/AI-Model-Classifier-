@@ -1,0 +1,43 @@
+repo_path,drive_path,original_bytes,sha256_of_original,note
+data/1_human_data/archived/Select_1200_data.py,1. Collect 1200 Human Data/#Archived/Select_1200_data.py,53127,185aa6ae44a818bd27a08e840a33eb8ff98374dcc15b37ae8a8684355ace7983,archived by dataset team
+data/1_human_data/archived/dataset_selection_notes.md,1. Collect 1200 Human Data/#Archived/dataset_selection_notes.md,12472,d4d9f6d1778069a1db66f167e2410005922709e9711b687eb54259115ae8fb1b,archived by dataset team
+data/1_human_data/archived/human_responses_1200.csv,1. Collect 1200 Human Data/#Archived/human_responses_1200.csv,1610987,14fa05fd1599ce668cafb0387a01862ce5d34985194aeb967996c9e2cee399a5,archived by dataset team
+data/1_human_data/candidates_no_length_filter/README.md,1. Collect 1200 Human Data/Dataset Candidates (No Length Filter)/README.md,2107,4518e17a287635545be2729397de0b7ad0f2e706b494a80d33d1ecd51dcc7081,
+data/1_human_data/candidates_no_length_filter/explanatory_before_length.csv.gz,1. Collect 1200 Human Data/Dataset Candidates (No Length Filter)/explanatory_before_length.csv,116568700,4b5d2c9e74e268240101c95bcc90c68891f5c5b7df3d8caa0d0050a59602fd19,"gzipped (original >100 MB, GitHub limit); pandas reads .csv.gz directly"
+data/1_human_data/candidates_no_length_filter/long-form_before_length.csv.gz,1. Collect 1200 Human Data/Dataset Candidates (No Length Filter)/long-form_before_length.csv,189970424,d91d92863d89798d540b684c46f3cdbf13f091875cec7f089df6e620705acf5c,"gzipped (original >100 MB, GitHub limit); pandas reads .csv.gz directly"
+data/1_human_data/candidates_no_length_filter/technical_before_length.csv,1. Collect 1200 Human Data/Dataset Candidates (No Length Filter)/technical_before_length.csv,47094912,b3cff3fe9db621cba32046b6aafe5ce4abadda245139a3865de4bf9809f0e600,
+data/1_human_data/dataset_selection_notes_v3.md,1. Collect 1200 Human Data/dataset_selection_notes_v3.md,8611,9a61e410ab5ad0a9f2c2ba313f961b6fab3fab1f4d11706a85f82dda275400f7,
+data/1_human_data/human_responses_1200_v3.csv,1. Collect 1200 Human Data/human_responses_1200_v3.csv,1613105,6a775425d8fcdd492d97ef2246f80e92129921a7679abb98bb59feb359921212,older human version
+data/1_human_data/human_responses_1200_v3_clean.csv,1. Collect 1200 Human Data/human_responses_1200_v3_clean.csv,1612906,18e330b119b6d9e6967bc4bd2d21243a431c2003c0b3cab28743de2595f8a123,older human version
+data/1_human_data/human_responses_1200_v4.csv,1. Collect 1200 Human Data/human_responses_1200_v4.csv,1612993,cc0511b89b7c5182c60e8558db8a644cf4dcba3c8e7441967df190072aaf630d,older human version
+data/1_human_data/human_responses_1200_v5.csv,1. Collect 1200 Human Data/human_responses_1200_v5.csv,1613690,d3ce1a666f029fa42d3b2cbab4515b54afac3920d077be2d762ca31e736ba5eb,older human version
+data/1_human_data/human_responses_1200_v5_split_2026-09-26_1847.csv,1. Collect 1200 Human Data/human_responses_1200_v5_split_2026-09-26_1847.csv,7320484,954031f34289dd1703e386d736834d5aa51d4716fd1361456bf59eff033302f0,latest human file (human part of the main file)
+data/3_ai_outputs/ai_responses_claude-opus-5-5_test127_2026-09-27_2346.csv,3. AI Outputs/ai_responses_claude-opus-5-5_test127_2026-09-27_2346.csv,866415,7e3269c837280bd7feb135c0685e0f449cbf4505c801310e2119679fddc74e71,
+data/3_ai_outputs/ai_responses_claude_2400.csv,3. AI Outputs/ai_responses_claude_2400.csv,3562358,489f42caccbb6ff18acf7a6db3ffed79c61b6104fd42d1aba5ed9f621c3d08d2,
+data/3_ai_outputs/ai_responses_gemini-2.5-pro_test127.csv,3. AI Outputs/ai_responses_gemini-2.5-pro_test127.csv,175929,6498ba244b9bb37709b22c35bab11d75c6d1763bd481957859e22b38ca56b26e,
+data/3_ai_outputs/ai_responses_gemini_2400.csv,3. AI Outputs/ai_responses_gemini_2400.csv,3657244,cc1dfda4e21cbed391d39795166be615126d729a3cf050eea53f81b83d5a8c99,
+data/3_ai_outputs/ai_responses_gemma-4-12b.csv,3. AI Outputs/ai_responses_gemma-4-12b.csv,853040,27b78838351cab09e1780f7119f4951cd0087e3421f0d3421954da4269fdabff,
+data/3_ai_outputs/ai_responses_gemma-4-31b.csv,3. AI Outputs/ai_responses_gemma-4-31b.csv,795001,5457f62be89115b316e445d01aca1f793fcf17f193c764972973f9209c9ded80,
+data/3_ai_outputs/ai_responses_gpt-6-astra_test127.csv,3. AI Outputs/ai_responses_gpt-6-astra_test127.csv,221950,79072fa0778da6b8b79b8b655025444f8fed15ad08398c5317740422e13c47e6,
+data/3_ai_outputs/ai_responses_gpt_2400.csv,3. AI Outputs/ai_responses_gpt_2400.csv,3644345,d48c572fe3d25823be3eee2449c223188d1409c9b55b37d966b640b9f414544c,
+data/3_ai_outputs/ai_responses_llama-3.1-8b.csv,3. AI Outputs/ai_responses_llama-3.1-8b.csv,6889029,0dcd0585e90bbf6aac01ffdf29959f346a7b91992e1dae674d8bed3489943dcd,
+data/3_ai_outputs/ai_responses_llama-3.3-70b.csv,3. AI Outputs/ai_responses_llama-3.3-70b.csv,6824716,30a04d3525b22fc1d8aeaa41a95b49bad036ff261771e77c89cb646bb7909132,
+data/3_ai_outputs/ai_responses_merged_12000_latexfree_sysprompt_2026-09-27_2307.csv,3. AI Outputs/ai_responses_merged_12000_latexfree_sysprompt_2026-09-27_2307.csv,77457550,c2816e3165d7cf53c437cd21e8af64eeef63ffc93504679a9c57994bd411ed7f,latest merged AI file (AI part of the main file)
+data/3_ai_outputs/ai_responses_merged_7200.csv,3. AI Outputs/ai_responses_merged_7200.csv,47439789,016edfe6953e2fcb3f9919716282062d0ec4ce56a33bd3c06abad298ccd220f0,older merge
+data/3_ai_outputs/ai_responses_merged_7200_latexfree_2026-09-25_2158.csv,3. AI Outputs/ai_responses_merged_7200_latexfree_2026-09-25_2158.csv,47418821,5d6487e1a06200272942b736721857ad63f3b1baedbb229637b33c4e35543f3c,"older merge, 6 frontier models only"
+data/3_ai_outputs/ai_responses_merged_7200_old.csv,3. AI Outputs/ai_responses_merged_7200_old.csv,47335005,4894e7d3b34310bf4c6c08b4b215bbfac311add649f102b533a248e3c6f6a102,older merge
+data/3_ai_outputs/ai_responses_mistral-small-3.2-24b.csv,3. AI Outputs/ai_responses_mistral-small-3.2-24b.csv,819602,947f2d0718300f171b72dd9a1e489151b478524d84f711bc7a963e2d6e04feaf,
+data/3_ai_outputs/ai_responses_muse-glimmer-30b.csv,3. AI Outputs/ai_responses_muse-glimmer-30b.csv,744722,e52b87d84cfca7f40b455519644c41116554bcdc239050afaa48ecdeefa8936c,
+data/3_ai_outputs/ai_responses_muse-spark-1.3_test127_2026-09-28_0031.csv,3. AI Outputs/ai_responses_muse-spark-1.3_test127_2026-09-28_0031.csv,735217,c4e86f346288f60f87072eafc8f79cd95e6030cd14f795b488287c99f2364971,
+data/3_ai_outputs/ai_responses_qwen3-14b.csv,3. AI Outputs/ai_responses_qwen3-14b.csv,6826384,b535f98efa7336676c19309d1cddf35786ac7f87726a8c123267d369d5874ed1,
+data/3_ai_outputs/ai_responses_qwen3.8-27b.csv,3. AI Outputs/ai_responses_qwen3.8-27b.csv,7930486,7901d10690e5abec73153fcc073c1081928c0edba3bc0cc6fe3346e39b6da85a,
+data/3_ai_outputs/ai_responses_unseen_test_8x127_2026-09-28_1928.csv,3. AI Outputs/ai_responses_unseen_test_8x127_2026-09-28_1928.csv,6533022,d5e917c1a993eed83f4e007482cdb032fada58e99fcaff92e8410aca42ef4db4,same file as in 4_final_dataset
+data/3_ai_outputs/answer_issues_by_prompt_2026-09-28_1933.csv,3. AI Outputs/answer_issues_by_prompt_2026-09-28_1933.csv,43973,894c7a0038d47a2b939f390ea70a9c0c4cec0f9b8004235bd0c60feec1a35366,same file as in 4_final_dataset
+data/3_ai_outputs/pmi_top_terms_2026-09-28_2010.csv,3. AI Outputs/pmi_top_terms_2026-09-28_2010.csv,14502,802cbfb48cb38f348e09d8c0e01bcfbf2ef90f9660d409fe9a531951ccdfdac1,same file as in 4_final_dataset
+data/3_ai_outputs/pmi_top_terms_2026-09-28_2010.txt,3. AI Outputs/pmi_top_terms_2026-09-28_2010.txt,17451,08df057585bba61f52be35338903abd221dcfb3749cd83159b5af1280333a446,same file as in 4_final_dataset
+data/4_final_dataset/README.md,4. Final Dataset/README.md,1889,70a3dead706006412748f85398a9c5386bc47858b5e0c14a85dcba2fcdee933a,
+data/4_final_dataset/ai_responses_unseen_test_8x127_2026-09-28_1928.csv,4. Final Dataset/ai_responses_unseen_test_8x127_2026-09-28_1928.csv,6533022,d5e917c1a993eed83f4e007482cdb032fada58e99fcaff92e8410aca42ef4db4,unseen-model test set (use this)
+data/4_final_dataset/answer_issues_by_prompt_2026-09-28_1933.csv,4. Final Dataset/answer_issues_by_prompt_2026-09-28_1933.csv,43973,894c7a0038d47a2b939f390ea70a9c0c4cec0f9b8004235bd0c60feec1a35366,
+data/4_final_dataset/dataset_13200_ai12000_human1200.csv,4. Final Dataset/dataset_13200_ai12000_human1200.csv,84968686,413a5e8b26d1f03d58d547020a35a35ccdfc98497e1624304293ae44f07bc49c,MAIN training/val/test file (use this)
+data/4_final_dataset/pmi_top_terms_2026-09-28_2010.csv,4. Final Dataset/pmi_top_terms_2026-09-28_2010.csv,14502,802cbfb48cb38f348e09d8c0e01bcfbf2ef90f9660d409fe9a531951ccdfdac1,
+data/4_final_dataset/pmi_top_terms_2026-09-28_2010.txt,4. Final Dataset/pmi_top_terms_2026-09-28_2010.txt,17451,08df057585bba61f52be35338903abd221dcfb3749cd83159b5af1280333a446,

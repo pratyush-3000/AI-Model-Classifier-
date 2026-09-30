@@ -1,0 +1,258 @@
+Top 20 PMI terms per writer (train split; term in >= 15 of that writer's answers, >= 30 uses overall). share = fraction of all uses of the term that came from this writer (11 writers, so 0.09 = average).
+
+== claude-haiku-4-5
+  chen                         PMI  2.64   share  56%   in 32 answers
+  here's                       PMI  2.53   share  52%   in 45 answers
+  marcus                       PMI  2.50   share  51%   in 66 answers
+  sarah                        PMI  2.48   share  50%   in 35 answers
+  hands trembled               PMI  2.48   share  50%   in 20 answers
+  trembled as                  PMI  2.37   share  46%   in 19 answers
+  you're right                 PMI  2.37   share  46%   in 25 answers
+  they're not                  PMI  2.33   share  45%   in 20 answers
+  several factors              PMI  2.31   share  44%   in 20 answers
+  right that                   PMI  2.11   share  39%   in 17 answers
+  insight                      PMI  1.93   share  34%   in 15 answers
+  identified                   PMI  1.93   share  34%   in 16 answers
+  theoretically                PMI  1.90   share  33%   in 21 answers
+  trembled                     PMI  1.88   share  33%   in 30 answers
+  your system                  PMI  1.87   share  33%   in 17 answers
+  they'd                       PMI  1.84   share  32%   in 39 answers
+  approaches                   PMI  1.83   share  32%   in 23 answers
+  he'd                         PMI  1.82   share  32%   in 54 answers
+  explained                    PMI  1.79   share  31%   in 18 answers
+  minimal                      PMI  1.79   share  31%   in 35 answers
+
+== claude-opus-4-6
+  at 3                         PMI  2.28   share  43%   in 15 answers
+  chen                         PMI  2.24   share  42%   in 24 answers
+  thursday                     PMI  2.09   share  38%   in 15 answers
+  muttered                     PMI  2.04   share  37%   in 22 answers
+  there's also                 PMI  1.97   share  35%   in 20 answers
+  forty                        PMI  1.89   share  33%   in 47 answers
+  sarah                        PMI  1.89   share  33%   in 22 answers
+  eleven                       PMI  1.83   share  32%   in 28 answers
+  that said                    PMI  1.83   share  32%   in 44 answers
+  fourteen                     PMI  1.81   share  31%   in 16 answers
+  i said                       PMI  1.74   share  30%   in 43 answers
+  six                          PMI  1.72   share  30%   in 69 answers
+  they've                      PMI  1.71   share  29%   in 17 answers
+  my phone                     PMI  1.60   share  27%   in 21 answers
+  there's no                   PMI  1.59   share  27%   in 37 answers
+  told me                      PMI  1.58   share  27%   in 15 answers
+  grocery                      PMI  1.58   share  27%   in 15 answers
+  watched the                  PMI  1.57   share  26%   in 18 answers
+  the third                    PMI  1.53   share  26%   in 22 answers
+  seven                        PMI  1.53   share  26%   in 34 answers
+
+== gemini-3.1-pro-preview
+  incredibly                   PMI  2.98   share  78%   in 90 answers
+  a highly                     PMI  2.65   share  62%   in 20 answers
+  is highly                    PMI  2.61   share  61%   in 30 answers
+  are highly                   PMI  2.52   share  57%   in 20 answers
+  they aren't                  PMI  2.46   share  55%   in 17 answers
+  a massive                    PMI  2.39   share  52%   in 92 answers
+  the absolute                 PMI  2.38   share  52%   in 25 answers
+  highly                       PMI  2.38   share  52%   in 126 answers
+  fascinating                  PMI  2.37   share  51%   in 18 answers
+  exactly how                  PMI  2.36   share  51%   in 22 answers
+  exact same                   PMI  2.29   share  49%   in 60 answers
+  a strict                     PMI  2.29   share  48%   in 16 answers
+  the heavy                    PMI  2.22   share  46%   in 24 answers
+  a completely                 PMI  2.14   share  44%   in 18 answers
+  absolutely                   PMI  2.13   share  44%   in 56 answers
+  profound                     PMI  2.12   share  43%   in 29 answers
+  massive                      PMI  2.12   share  43%   in 173 answers
+  are completely               PMI  2.11   share  43%   in 15 answers
+  a sudden                     PMI  2.08   share  42%   in 28 answers
+  entirely on                  PMI  2.07   share  42%   in 28 answers
+
+== gemini-3.8-flash
+  hyper                        PMI  2.57   share  57%   in 24 answers
+  vastly                       PMI  2.45   share  52%   in 21 answers
+  virtually                    PMI  2.31   share  48%   in 20 answers
+  drastically                  PMI  2.25   share  46%   in 25 answers
+  microscopic                  PMI  2.18   share  44%   in 15 answers
+  exact same                   PMI  2.15   share  43%   in 50 answers
+  is entirely                  PMI  2.14   share  43%   in 20 answers
+  the global                   PMI  2.14   share  42%   in 15 answers
+  the immediate                PMI  2.14   share  42%   in 24 answers
+  bizarre                      PMI  2.12   share  42%   in 16 answers
+  automated                    PMI  2.09   share  41%   in 27 answers
+  is completely                PMI  2.07   share  41%   in 28 answers
+  violently                    PMI  2.07   share  41%   in 15 answers
+  almost always                PMI  2.04   share  40%   in 17 answers
+  the ultimate                 PMI  1.94   share  37%   in 17 answers
+  comes down                   PMI  1.92   share  36%   in 35 answers
+  entirely on                  PMI  1.89   share  36%   in 24 answers
+  into an                      PMI  1.89   share  36%   in 24 answers
+  instantly                    PMI  1.85   share  35%   in 57 answers
+  rarely                       PMI  1.85   share  35%   in 33 answers
+
+== gpt-5.5
+  less like                    PMI  2.79   share  67%   in 20 answers
+  usually means                PMI  2.49   share  54%   in 25 answers
+  not usually                  PMI  2.47   share  53%   in 16 answers
+  mainly                       PMI  2.17   share  43%   in 62 answers
+  huge                         PMI  2.08   share  41%   in 36 answers
+  should not                   PMI  2.04   share  40%   in 23 answers
+  it gives                     PMI  2.03   share  39%   in 15 answers
+  the usual                    PMI  2.02   share  39%   in 34 answers
+  can become                   PMI  2.02   share  39%   in 22 answers
+  more like                    PMI  2.01   share  39%   in 26 answers
+  and sometimes                PMI  2.00   share  38%   in 24 answers
+  lots of                      PMI  1.98   share  38%   in 15 answers
+  not mean                     PMI  1.98   share  38%   in 16 answers
+  especially if                PMI  1.93   share  37%   in 28 answers
+  especially for               PMI  1.87   share  35%   in 17 answers
+  it if                        PMI  1.85   share  35%   in 17 answers
+  changes the                  PMI  1.83   share  34%   in 21 answers
+  partly                       PMI  1.81   share  34%   in 20 answers
+  a normal                     PMI  1.77   share  33%   in 25 answers
+  briefly                      PMI  1.76   share  33%   in 17 answers
+
+== gpt-5.6-terra
+  not merely                   PMI  2.84   share  69%   in 29 answers
+  not simply                   PMI  2.58   share  58%   in 19 answers
+  mara                         PMI  2.40   share  51%   in 37 answers
+  not make                     PMI  2.37   share  50%   in 18 answers
+  beside the                   PMI  2.33   share  48%   in 16 answers
+  frightened                   PMI  2.29   share  47%   in 17 answers
+  not mean                     PMI  2.23   share  45%   in 19 answers
+  normally                     PMI  2.15   share  43%   in 89 answers
+  merely                       PMI  2.14   share  43%   in 58 answers
+  ordinary                     PMI  2.09   share  41%   in 100 answers
+  not require                  PMI  2.09   share  41%   in 15 answers
+  not necessarily              PMI  2.09   share  41%   in 43 answers
+  expose                       PMI  1.96   share  38%   in 20 answers
+  do not                       PMI  1.94   share  37%   in 159 answers
+  beneath a                    PMI  1.92   share  37%   in 15 answers
+  therefore                    PMI  1.91   share  36%   in 67 answers
+  ideally                      PMI  1.88   share  36%   in 16 answers
+  does not                     PMI  1.87   share  35%   in 167 answers
+  and whether                  PMI  1.87   share  35%   in 19 answers
+  mainly                       PMI  1.86   share  35%   in 50 answers
+
+== human
+  fucking                      PMI  3.25   share  94%   in 16 answers
+  fuck                         PMI  3.19   share  91%   in 20 answers
+  shit                         PMI  3.16   share  89%   in 25 answers
+  i e                          PMI  3.03   share  81%   in 27 answers
+  i guess                      PMI  2.99   share  79%   in 27 answers
+  order to                     PMI  2.95   share  76%   in 24 answers
+  damn                         PMI  2.87   share  72%   in 22 answers
+  in order                     PMI  2.83   share  70%   in 24 answers
+  pretty                       PMI  2.74   share  66%   in 56 answers
+  say that                     PMI  2.66   share  62%   in 17 answers
+  i get                        PMI  2.64   share  62%   in 20 answers
+  i mean                       PMI  2.63   share  61%   in 15 answers
+  sort of                      PMI  2.56   share  58%   in 20 answers
+  is going                     PMI  2.49   share  56%   in 25 answers
+  guys                         PMI  2.47   share  55%   in 19 answers
+  nice                         PMI  2.45   share  54%   in 18 answers
+  think it                     PMI  2.42   share  53%   in 17 answers
+  basically                    PMI  2.41   share  52%   in 47 answers
+  then you                     PMI  2.38   share  52%   in 28 answers
+  guess                        PMI  2.38   share  52%   in 42 answers
+
+== llama-3.1-8b
+  often referred               PMI  3.17   share  73%   in 22 answers
+  to as                        PMI  2.96   share  63%   in 26 answers
+  referred to                  PMI  2.76   share  55%   in 26 answers
+  eyes scanning                PMI  2.71   share  53%   in 16 answers
+  referred                     PMI  2.70   share  53%   in 26 answers
+  was as                       PMI  2.70   share  53%   in 17 answers
+  gazed                        PMI  2.68   share  52%   in 23 answers
+  a pang                       PMI  2.66   share  52%   in 16 answers
+  pang                         PMI  2.66   share  52%   in 17 answers
+  pang of                      PMI  2.66   share  52%   in 17 answers
+  eyes fixed                   PMI  2.62   share  50%   in 21 answers
+  a shiver                     PMI  2.62   share  50%   in 23 answers
+  excitement                   PMI  2.59   share  49%   in 25 answers
+  fixed on                     PMI  2.52   share  47%   in 22 answers
+  shiver                       PMI  2.50   share  46%   in 23 answers
+  that seemed                  PMI  2.49   share  46%   in 20 answers
+  a reminder                   PMI  2.48   share  45%   in 19 answers
+  the thought                  PMI  2.48   share  45%   in 19 answers
+  however it's                 PMI  2.45   share  44%   in 16 answers
+  i hesitated                  PMI  2.45   share  44%   in 16 answers
+
+== llama-3.3-70b
+  struggled to                 PMI  3.17   share  72%   in 27 answers
+  helps to                     PMI  2.96   share  62%   in 21 answers
+  spine as                     PMI  2.94   share  61%   in 22 answers
+  struggled                    PMI  2.78   share  55%   in 28 answers
+  run down                     PMI  2.77   share  54%   in 19 answers
+  reminder of                  PMI  2.75   share  54%   in 26 answers
+  over me                      PMI  2.72   share  52%   in 20 answers
+  couldn't help                PMI  2.68   share  51%   in 22 answers
+  felt a                       PMI  2.66   share  50%   in 75 answers
+  realized that                PMI  2.65   share  50%   in 20 answers
+  a sense                      PMI  2.64   share  50%   in 47 answers
+  essential to                 PMI  2.59   share  48%   in 22 answers
+  allows for                   PMI  2.51   share  45%   in 34 answers
+  allowing for                 PMI  2.49   share  45%   in 17 answers
+  can provide                  PMI  2.48   share  44%   in 24 answers
+  my spine                     PMI  2.48   share  44%   in 27 answers
+  reminder                     PMI  2.45   share  43%   in 35 answers
+  a shiver                     PMI  2.45   share  43%   in 20 answers
+  a result                     PMI  2.40   share  42%   in 52 answers
+  resulting in                 PMI  2.39   share  42%   in 35 answers
+
+== qwen3-14b
+  heart pounding               PMI  3.39   share  82%   in 31 answers
+  had long                     PMI  3.12   share  68%   in 23 answers
+  spoke of                     PMI  3.10   share  67%   in 19 answers
+  long since                   PMI  3.06   share  65%   in 18 answers
+  pounding                     PMI  3.01   share  63%   in 32 answers
+  eyes wide                    PMI  2.89   share  57%   in 23 answers
+  had once                     PMI  2.77   share  53%   in 18 answers
+  the scent                    PMI  2.75   share  52%   in 32 answers
+  world had                    PMI  2.75   share  52%   in 24 answers
+  scalability                  PMI  2.69   share  50%   in 23 answers
+  scent of                     PMI  2.62   share  48%   in 33 answers
+  is essential                 PMI  2.59   share  47%   in 21 answers
+  that moment                  PMI  2.57   share  46%   in 18 answers
+  thick with                   PMI  2.54   share  45%   in 19 answers
+  a whisper                    PMI  2.53   share  45%   in 31 answers
+  a ghost                      PMI  2.49   share  44%   in 24 answers
+  echoes                       PMI  2.49   share  43%   in 20 answers
+  flickering                   PMI  2.48   share  43%   in 19 answers
+  ensuring                     PMI  2.45   share  42%   in 50 answers
+  flicker                      PMI  2.43   share  42%   in 17 answers
+
+== qwen3.8-27b
+  i set                        PMI  2.74   share  63%   in 28 answers
+  parking lot                  PMI  2.71   share  62%   in 20 answers
+  the parking                  PMI  2.69   share  61%   in 18 answers
+  for eleven                   PMI  2.66   share  60%   in 18 answers
+  a m                          PMI  2.62   share  58%   in 17 answers
+  set it                       PMI  2.60   share  57%   in 21 answers
+  a tuesday                    PMI  2.58   share  57%   in 39 answers
+  eleven                       PMI  2.47   share  52%   in 44 answers
+  it again                     PMI  2.43   share  51%   in 21 answers
+  i keep                       PMI  2.36   share  49%   in 18 answers
+  that's the                   PMI  2.35   share  48%   in 42 answers
+  kitchen table                PMI  2.31   share  47%   in 15 answers
+  pipeline                     PMI  2.28   share  46%   in 15 answers
+  a thin                       PMI  2.26   share  45%   in 19 answers
+  the thing                    PMI  2.26   share  45%   in 38 answers
+  parking                      PMI  2.25   share  45%   in 27 answers
+  tuesday                      PMI  2.22   share  44%   in 71 answers
+  the gap                      PMI  2.20   share  43%   in 19 answers
+  grey                         PMI  2.19   share  43%   in 15 answers
+  by contrast                  PMI  2.17   share  43%   in 20 answers
+
+== Punctuation per 100 words (from answer_strict; dashes appear as ' - ')
+                        em dash (as ' - ')  colon  semicolon  parenthesis  exclamation  question mark  quote mark  comma
+writer                                                                                                                  
+claude-haiku-4-5                      1.04   0.58       0.09         0.34         0.04           0.18        1.62   5.66
+claude-opus-4-6                       1.03   0.47       0.04         0.58         0.04           0.22        2.15   5.48
+gemini-3.1-pro-preview                0.27   0.10       0.14         0.20         0.02           0.06        0.62   6.28
+gemini-3.8-flash                      0.34   0.20       0.20         0.28         0.02           0.05        0.78   7.03
+gpt-5.5                               0.16   0.79       0.22         0.10         0.02           0.11        1.83   9.08
+gpt-5.6-terra                         0.36   0.77       0.30         0.23         0.02           0.10        1.80   8.30
+human                                 0.16   0.23       0.10         0.65         0.23           0.39        1.58   4.93
+llama-3.1-8b                          0.07   0.12       0.01         0.25         0.04           0.14        1.07   7.09
+llama-3.3-70b                         0.04   0.07       0.01         0.12         0.02           0.10        0.61   7.11
+qwen3-14b                             0.36   0.10       0.05         0.22         0.02           0.12        0.94   7.99
+qwen3.8-27b                           0.76   0.43       0.20         0.30         0.02           0.11        1.73   6.21
