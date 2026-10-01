@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+# training outputs: keep checkpoints out of git
+outputs/
+checkpoints/
+runs/
+wandb/
+*.pt
+*.bin
+*.safetensors
